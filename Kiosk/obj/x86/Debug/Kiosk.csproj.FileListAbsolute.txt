@@ -1,0 +1,17 @@
+C:\POO\Kiosk\Kiosk\Kiosk\bin\Debug\Kiosk.exe
+C:\POO\Kiosk\Kiosk\Kiosk\bin\Debug\Kiosk.pdb
+C:\POO\Kiosk\Kiosk\Kiosk\obj\x86\Debug\Kiosk.Form1.resources
+C:\POO\Kiosk\Kiosk\Kiosk\obj\x86\Debug\Kiosk.frm_buscarProducto.resources
+C:\POO\Kiosk\Kiosk\Kiosk\obj\x86\Debug\Kiosk.Properties.Resources.resources
+C:\POO\Kiosk\Kiosk\Kiosk\obj\x86\Debug\Kiosk.csproj.GenerateResource.Cache
+C:\POO\Kiosk\Kiosk\Kiosk\obj\x86\Debug\Kiosk.exe
+C:\POO\Kiosk\Kiosk\Kiosk\obj\x86\Debug\Kiosk.pdb
+C:\POO\Kiosk\Kiosk\Kiosk\obj\x86\Debug\Kiosk.csprojResolveAssemblyReference.cache
+C:\POO\Kiosk\Kiosk\Kiosk\obj\x86\Debug\Kiosk.NuevoCliente.resources
+C:\POO\Kiosk\Kiosk\Kiosk\obj\x86\Debug\Kiosk.NuevoProducto.resources
+C:\POO\Kiosk\Kiosk\Kiosk\obj\x86\Debug\Kiosk.FinalizarCrearFactura.resources
+C:\POO\Kiosk\Kiosk\Kiosk\obj\x86\Debug\Kiosk.RendirMercadoPago.resources
+C:\POO\Kiosk\Kiosk\Kiosk\bin\Debug\Kiosk.exe.manifest
+C:\POO\Kiosk\Kiosk\Kiosk\bin\Debug\Kiosk.application
+C:\POO\Kiosk\Kiosk\Kiosk\obj\x86\Debug\Kiosk.exe.manifest
+C:\POO\Kiosk\Kiosk\Kiosk\obj\x86\Debug\Kiosk.application
